@@ -1,0 +1,1 @@
+# Stocket marking translate data
